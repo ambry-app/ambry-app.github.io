@@ -1,3 +1,5 @@
-# ambry-app.github.io
+# ambry.app
 
 Website for Ambry
+
+<https://ambry.app>
